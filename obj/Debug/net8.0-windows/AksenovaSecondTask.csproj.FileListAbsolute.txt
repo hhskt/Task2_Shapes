@@ -1,0 +1,16 @@
+D:\Dev\repos\AksenovaSecondTask\bin\Debug\net8.0-windows\AksenovaSecondTask.exe
+D:\Dev\repos\AksenovaSecondTask\bin\Debug\net8.0-windows\AksenovaSecondTask.deps.json
+D:\Dev\repos\AksenovaSecondTask\bin\Debug\net8.0-windows\AksenovaSecondTask.runtimeconfig.json
+D:\Dev\repos\AksenovaSecondTask\bin\Debug\net8.0-windows\AksenovaSecondTask.dll
+D:\Dev\repos\AksenovaSecondTask\bin\Debug\net8.0-windows\AksenovaSecondTask.pdb
+D:\Dev\repos\AksenovaSecondTask\obj\Debug\net8.0-windows\AksenovaSecondTask.MainForm.resources
+D:\Dev\repos\AksenovaSecondTask\obj\Debug\net8.0-windows\AksenovaSecondTask.csproj.GenerateResource.cache
+D:\Dev\repos\AksenovaSecondTask\obj\Debug\net8.0-windows\AksenovaSecondTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\repos\AksenovaSecondTask\obj\Debug\net8.0-windows\AksenovaSecondTask.AssemblyInfoInputs.cache
+D:\Dev\repos\AksenovaSecondTask\obj\Debug\net8.0-windows\AksenovaSecondTask.AssemblyInfo.cs
+D:\Dev\repos\AksenovaSecondTask\obj\Debug\net8.0-windows\AksenovaSecondTask.csproj.CoreCompileInputs.cache
+D:\Dev\repos\AksenovaSecondTask\obj\Debug\net8.0-windows\AksenovaSecondTask.dll
+D:\Dev\repos\AksenovaSecondTask\obj\Debug\net8.0-windows\refint\AksenovaSecondTask.dll
+D:\Dev\repos\AksenovaSecondTask\obj\Debug\net8.0-windows\AksenovaSecondTask.pdb
+D:\Dev\repos\AksenovaSecondTask\obj\Debug\net8.0-windows\AksenovaSecondTask.genruntimeconfig.cache
+D:\Dev\repos\AksenovaSecondTask\obj\Debug\net8.0-windows\ref\AksenovaSecondTask.dll
